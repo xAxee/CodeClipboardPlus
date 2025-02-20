@@ -2,7 +2,8 @@
   "name": "codeclipboardplus",
   "displayName": "CodeClipboardPlus",
   "description": "Extension to copy file contents to clipboard",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "HubertIwan",
   "engines": {
     "vscode": "^1.97.0"
   },
