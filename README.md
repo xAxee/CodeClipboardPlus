@@ -103,10 +103,6 @@ def greet(name):
 PI = 3.14159
 ```
 
-## Konfiguracja
-
-Obecnie rozszerzenie nie wymaga konfiguracji, ale w przyszłości jestem otwarty na propozycje co do konfiguracji.
-
 ## Wymagania
 
 - Visual Studio Code **v1.60.0** lub nowszy.
